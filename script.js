@@ -79,5 +79,5 @@ let sostav = [
 
 
 sostav.forEach(function (item) {
-    console.log(item);
+    // console.log(item);
 })
